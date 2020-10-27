@@ -2,7 +2,7 @@
 ---
 ## Rock, Paper, Scissors
 
-This repo is meant to test your skill in forking/cloning and editing another person's repo. This is code for a simple rock paper scissors game, we ask you to make the following edits (sorted from esiest to hardest):
+This repo is meant to test your skill in forking/cloning and editing another person's repo. This is code for a simple rock paper scissors game, we ask you to make the following edits (sorted from easiest to hardest):
 
 - Add a variable "computerChoice" and make it be randomly assigned a valid choice
 - Change variables to be more readable (i.e turn "var1" to "Choice")
@@ -10,3 +10,8 @@ This repo is meant to test your skill in forking/cloning and editing another per
 ![How R.P.S.L.S works](imgs/rpsls.jpg)
 - Add input validation 
 
+userChoice = input("HURRY PICK ROCK PAPER SCISSORS: "
+computerChoice = ["rock","paper","scissors"]
+var1 = computerChoice
+
+if userChoice = 
